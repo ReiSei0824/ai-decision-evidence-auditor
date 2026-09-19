@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C1",
+    "claim": "OpenAI published a model-misalignment reporting framework on 2026-09-16.",
+    "impact": "medium",
+    "source_url": "https://openai.com/index/model-misalignment-reporting-framework/",
+    "source_title": "Our framework for reporting model misalignment",
+    "published_at": "2026-09-16T00:00:00Z",
+    "accessed_at": "2026-09-19T00:00:00+08:00",
+    "quote_or_locator": "page heading and introduction",
+    "support": "direct",
+    "confidence": 0.98
+  },
+  {
+    "id": "C2",
+    "claim": "Every AI-generated report is unsafe.",
+    "impact": "high",
+    "source_url": "",
+    "source_title": "",
+    "published_at": "",
+    "accessed_at": "2026-09-19T00:00:00+08:00",
+    "quote_or_locator": "",
+    "support": "missing",
+    "confidence": 0.1
+  }
+]
